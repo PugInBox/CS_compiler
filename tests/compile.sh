@@ -1,0 +1,1 @@
+llc ./codegen-tests-cs/test1.ll && clang ./codegen-tests-cs/test1.s -o ./codegen-tests-cs/test1 && ./codegen-tests-cs/test1 && llc ./codegen-tests-cs/test2.ll && clang ./codegen-tests-cs/test2.s -o ./codegen-tests-cs/test2 && ./codegen-tests-cs/test2

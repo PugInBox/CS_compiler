@@ -1,0 +1,8 @@
+build
+run.sh
+/src/app/grammar/*.h
+/src/app/grammar/*.cpp
+/src/app/grammar/*.interp
+/src/app/grammar/*.tokens
+.antlr
+todo.txt
